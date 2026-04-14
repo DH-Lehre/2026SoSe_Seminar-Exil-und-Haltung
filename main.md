@@ -32,6 +32,12 @@ narrator: UK English Female
 
 ## Organisatorisches
 
+### Leitbild Lehren und Lernen der CAU
+
+[https://www.uni-kiel.de/fileadmin/user_upload/universitaet/profil/cau-leitbild-lehren-und-lehren.pdf](Link auf das Leitbild Lehren und Lernen der CAU)
+
+
+
 ### Regierungserklärung
 
 1. Diese Veranstaltung ist eine Forschungs**werkstatt**: Wir setzen neue Methoden und Software ein. Seid also nachsichtig mit uns und mit euch selbst, wenn mal etwas nicht funktioniert wie geplant. Lasst uns zeitnah wissen, wenn ihr Probleme habt, dann findet sich für alles eine Lösung!
@@ -46,7 +52,7 @@ narrator: UK English Female
 | Datum | Thema/Inhalt | Protokoll |
 |-------|--------------| --------- |
 | 14.04. | Begrüßung, Einführung in das Thema, Überblick über das Semester | - | 
-| 21.04. | **I. Exil und Haltung.** Was ist Haltung? Philosophische Näherung |  |
+| 21.04. | **I. Exil und Haltung.** Was ist Haltung? Philosophische Annäherung |  |
 | 28.04. | Philosophie zu Beginn des 20. Jahrhunderts und Exil von Philosoph:innen: geschichtlicher Hintergrund |  |
 | 05.05. | Haltung am Beispiel: Paul Ludwig Landsberg |  |
 | 12.05. | Vertiefung, Referate |   |
@@ -225,14 +231,19 @@ Philosophische Texte sollten bzw. können nicht wie andere Texte gelesen werden:
 >
 > (Rosenberg, 1984)
 
-Der vollständige Text mit einer Erläuterung, was es mit den einzelnen Thesen auf sich hat, findet sich im [OLAT-Materialverzeichnis](). 
+Der vollständige Text mit einer Erläuterung, was es mit den einzelnen Thesen auf sich hat, findet sich im [OLAT-Materialverzeichnis](https://lms.uni-kiel.de/auth/RepositoryEntry/5772148992/CourseNode/113529231322421/path%3D~~Texte/0). 
 
 ### Zur nächsten Sitzung
 
 Lest zur folgenden Sitzung (im OLAT Materialverzeichnis zu finden):
 
-* tbd
+* Grimm, Keber, Zöllner: Haltung im digitalen Zeitalter. Wie wir der Welt begegnen (2019).
+* Frauke Kurbacher: Interpersonalität zwischen Autonomie und Fragilität (2017).
 
 Lest den Text aufmerksam auf folgende Fragen hin:
 
-1. tbd
+1. Welche Anschlusspunkte zum Leitbild Lehren und Lernen (Haltung) findet Ihr in den Texten?
+2. Wo seht ihr Bezüge zwischen den Texten?
+3. Was ist im ethischen Sinne eine Haltung?
+4. Wie viel Mut kostet es eine Haltung zu vertreten? Was können Widerstände sein? 
+5. Wie kann man Haltung praktisch umsetzen?
