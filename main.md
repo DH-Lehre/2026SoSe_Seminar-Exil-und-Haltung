@@ -52,8 +52,8 @@ narrator: UK English Female
 | Datum | Thema/Inhalt | Protokoll |
 |-------|--------------| --------- |
 | 14.04. | Begrüßung, Einführung in das Thema, Überblick über das Semester | - | 
-| 21.04. | **I. Exil und Haltung.** Was ist Haltung? Philosophische Annäherung |  |
-| 28.04. | Philosophie zu Beginn des 20. Jahrhunderts und Exil von Philosoph:innen: geschichtlicher Hintergrund |  |
+| 21.04. | **I. Exil und Haltung.** Was ist Haltung? Philosophische Annäherung | Momme |
+| 28.04. | Philosophie zu Beginn des 20. Jahrhunderts und Exil von Philosoph:innen: geschichtlicher Hintergrund | Tom |
 | 05.05. | Haltung am Beispiel: Paul Ludwig Landsberg |  |
 | 12.05. | Vertiefung, Referate |   |
 | 19.05. | **II. Digital Humanities.** Was sind und was machen die Digital Humanities? |  |
@@ -247,3 +247,17 @@ Lest den Text aufmerksam auf folgende Fragen hin:
 3. Was ist im ethischen Sinne eine Haltung?
 4. Wie viel Mut kostet es eine Haltung zu vertreten? Was können Widerstände sein? 
 5. Wie kann man Haltung praktisch umsetzen?
+
+## Sitzung am 21.04. 
+
+
+
+### Zur nächsten Sitzung
+
+Recherchiert: Welche philosophischen Strömungen und Schulen gab es im deutschsprachigen Raum zu Beginn des 20. Jahrhunderts. Welche Philosophen waren im gleichen Zeitraum tätig, wer musste Deutschland aufgrund des Nationalsozialismus verlassen? Wer ist zurückgekehrt?
+
+Bitte lest außerdem:
+
+* Hans Jörg Sandkühler: Vergessen? Verdrängt? Erinnert? Philosophie im Nationalsozialismus. In. Ders.: Philosophie im Nationalsozialismus (Einleitung aus dem im OLAT hinterlegten Buch)
+* (Optional) Lars Lambrecht: Vom ›Geist unbefangener Menschlichkeit‹ Hannah Arendt und Karl Jaspers als Beispiele kritischer Haltung in der Zeit des Nationalsozialismus. In: Hans Jörg Sandkühler: Philosophie im Nationalsozialismus.
+
