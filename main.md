@@ -54,13 +54,13 @@ narrator: UK English Female
 | 14.04. | Begrüßung, Einführung in das Thema, Überblick über das Semester | - | 
 | 21.04. | **I. Exil und Haltung.** Was ist Haltung? Philosophische Annäherung | Momme |
 | 28.04. | Philosophie zu Beginn des 20. Jahrhunderts und Exil von Philosoph:innen: geschichtlicher Hintergrund | Tom |
-| 05.05. | Haltung am Beispiel: Paul Ludwig Landsberg |  |
-| 12.05. | Vertiefung, Referate |   |
-| 19.05. | **II. Digital Humanities.** Was sind und was machen die Digital Humanities? |  |
-| 26.05. | Beispiel I: Heinrich Blüchers Vorlesungen im Exil / statistische Auswertung von Texten |   |
-| 02.06. | Beispiel II: Das Briefnetzwerk von Lotte Labowsky, Gertrud Bing und Raymond Klibansky / automatische Texttranskription und TEI XML |   |
-| 09.06. | Beispiel III: Ein Verzeichnis geflohener Philosophinnen / RDF und *knowledge graphs* |  |
-| 16.06. | **III. Praxisteil / Projektphase.** Recherche(methoden) und mögliche Quellen |   |
+| 05.05. | Haltung am Beispiel: Paul Ludwig Landsberg | Jonas |
+| 12.05. | Vertiefung, Referate | Jakob |
+| 19.05. | **II. Digital Humanities.** Was sind und was machen die Digital Humanities? | Valeriia |
+| 26.05. | Beispiel I: Heinrich Blüchers Vorlesungen im Exil / statistische Auswertung von Texten | Jeremy |
+| 02.06. | Beispiel II: Das Briefnetzwerk von Lotte Labowsky, Gertrud Bing und Raymond Klibansky / automatische Texttranskription und TEI XML | Jan-Lukas |
+| 09.06. | Beispiel III: Ein Verzeichnis geflohener Philosophinnen / RDF und *knowledge graphs* | Elina |
+| 16.06. | **III. Praxisteil / Projektphase.** Recherche(methoden) und mögliche Quellen | Julius |
 | 23.06. | Methode: Philosophische Podcasts und das Schreiben eines Skripts |   |
 | 30.06. | Arbeitssitzung |   |
 | 07.07. | Vertiefung, tba | - |
@@ -260,4 +260,33 @@ Bitte lest außerdem:
 
 * Hans Jörg Sandkühler: Vergessen? Verdrängt? Erinnert? Philosophie im Nationalsozialismus. In. Ders.: Philosophie im Nationalsozialismus (Einleitung aus dem im OLAT hinterlegten Buch)
 * (Optional) Lars Lambrecht: Vom ›Geist unbefangener Menschlichkeit‹ Hannah Arendt und Karl Jaspers als Beispiele kritischer Haltung in der Zeit des Nationalsozialismus. In: Hans Jörg Sandkühler: Philosophie im Nationalsozialismus.
+
+
+## Sitzung am 28.04.
+
+### Zeitliche Übersicht
+
+![](img/exil_zeitstrahl.jpg)
+
+### Geographische Übersicht
+
+![](img/exil_map.jpg)
+
+### Zur nächsten Sitzung
+
+Bitte bereitet für die Sitzung am 05.05. aus Landsbergs "Einführung in die Anthropologie" (1934) die Seiten 9 bis 30, für den 12.05. die Seiten 74 bis 96 vor (beide Abschnitte findet ihr im gleichen Dokument). Zudem dient der Text Geist im Exil von Eduard Zwierlein (2009) als Hintergrund für beide Sitzungen; er ist länger, aber deutlich einfacher zu lesen und geht auf die Biographie von Paul Ludwig Landsberg und seinen Weg in und durch das Exil ein. 
+
+## Sitzung am 05.05.
+
+### Zur nächsten Sitzung
+
+Bitte bereitet für die Sitzung am 05.05. aus Landsbergs "Einführung in die Anthropologie" (1934) die Seiten 9 bis 30, für den 12.05. die Seiten 74 bis 96 vor (beide Abschnitte findet ihr im gleichen Dokument). Zudem dient der Text Geist im Exil von Eduard Zwierlein (2009) als Hintergrund für beide Sitzungen; er ist länger, aber deutlich einfacher zu lesen und geht auf die Biographie von Paul Ludwig Landsberg und seinen Weg in und durch das Exil ein. 
+
+## Sitzung am 12.05.
+
+### Zur nächsten Sitzung
+
+
+## Sitzung am 19.05.
+
 
