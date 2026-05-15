@@ -286,6 +286,12 @@ Bitte bereitet für die Sitzung am 05.05. aus Landsbergs "Einführung in die Ant
 
 ### Zur nächsten Sitzung
 
+Bitte macht euch mit der folgenden Website vertraut: https://research.uni-leipzig.de/bluecherproject/
+
+* Lest die [Editor's Note](https://research.uni-leipzig.de/bluecherproject/editors-note/)
+* Lest die [erste Vorlesung](https://research.uni-leipzig.de/bluecherproject/sources-of-creative-power-1-fall-semester-lecture-1/)
+* Hört den zugehörigen Podcast (Podcast 1: Overview) oder gerne auch mehr!
+
 
 ## Sitzung am 19.05.
 
