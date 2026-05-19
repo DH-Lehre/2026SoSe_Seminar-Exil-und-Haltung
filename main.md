@@ -248,9 +248,94 @@ Lest den Text aufmerksam auf folgende Fragen hin:
 4. Wie viel Mut kostet es eine Haltung zu vertreten? Was können Widerstände sein? 
 5. Wie kann man Haltung praktisch umsetzen?
 
-## Sitzung am 21.04. 
+## Sitzungsprotokoll am 21.04. 
 
+### Erster Eindruck der Texte
 
+Der Text aus Digitale Ethik von Grimm, Keber und Zöllner wurde in der Gruppe ganz gut aufgenommen. Er liest sich wie ein "normaler" Sachtext und hat viele Beispiele aus der digitalen Welt. Der Kurbacher-Text wirkte dagegen erstmal überfordernd und vage. Es war für viele schwer, eine klare Kernaussage aus dem Text abzuleiten.
+
+Anschließend hatten wir eine kurze Diskussion über den Begriff Interpersonalität, der bei Kurbacher zentral ist. Für den Moment haben wir ihn als den Austausch zwischen Personen verstanden, also das "Dazwischen", in dem man sich auf andere bezieht und umgekehrt.
+
+#### Ergebnis der Leitfragen aus Kleingruppen und Plenum
+
+##### Frage 1: Anschlusspunkte zum Leitbild Lehren und Lernen
+
+Beide Texte legen nahe, dass Bildung mehr ist als reine Wissensvermittlung. Es geht auch um
+Persönlichkeitsbildung, Urteilsfähigkeit und Verantwortung. In der Praxis ist das aber nicht so leicht
+umzusetzen: Vorlesungen mit 300 Studierenden lassen wenig Raum für so etwas wie echte
+Haltungsbildung, direkten Austausch und die Uni hat natürlich nur begrenzte Mittel (Dozierende,
+Übungen, Räume etc.) und will die möglichst optimal nutzen.
+Kritisch haben wir dazu angemerkt, dass im Leitbild der CAU zwar eine bestimmte Haltung
+eingenommen wird, aber kaum Begründungen und Raum für Diskurs dafür gegeben werden.
+
+##### Frage 2: Bezüge zwischen den Texten
+
+Beide Texte nehmen die Selbstreflexion stark in den Fokus und betonen, dass Haltung sich immer auf
+etwas beziehen muss. Im ersten Text (Zöllner) geht es dabei eher um den Bezug zu aktuellen
+Geschehnissen in der digitalen Welt. Beide zielen im Grunde aber darauf, Haltung als einen
+relationalen Begriff zu verstehen, also als etwas, das man in interpersoneller Bezüglichkeit auslebt.
+
+##### Exkurs: Gesinnung vs. Haltung
+
+Während Frage 2 sind wir ein Stück weit abgeschweift zu der Frage, was eigentlich der Unterschied
+zwischen Gesinnung und Haltung ist. Wir sind zu dem Ergebnis gekommen, dass Gesinnung eher
+etwas ist, dass man von anderen übernimmt (Familie, Umfeld, Gesellschaft). Währenddessen Haltung
+stärker aus einem selbst kommt. Mit der Haltung wächst ein eigenes Wertekonstrukt, welches
+wiederum durch interpersonellen Austausch wächst.
+
+##### Frage 3: Was ist im ethischen Sinne eine Haltung?
+
+Bei Zöllner ist der zentrale Gedanke, dass Haltung sich im Handeln zeigt, nicht nur im Reden und sie
+beinhaltet den Einsatz für ein respektvolles Miteinander. Ein Kommilitone aus der Philosophie hielt
+fest: „Ethik ist die Theorie, Haltung ist die Praxis, die die Theorie mit eigenen Erfahrungen und
+Erlebnissen kombiniert.“
+
+Bei Kurbacher ist die zentrale Figur das Wechselspiel zwischen Autonomie und Fragilität. Daran hängt
+die Frage: Was wird aus meiner Haltung, wenn ich in Umstände gerate, die diese schwächen? Zum
+Beispiel bei Krankheit oder wenn ich aus meinen sozialen Bezügen herausgenommen werde. Genau
+hier haben wir den Bogen zum Seminarthema Exil geschlagen: Wenn ich meinen gewohnten Raum
+verlasse, bin ich erstmal fragil, weil viel neu ist.
+
+„Darin verstehe ich Haltung sehr grundsätzlich als Bezüglichkeit, die fragile wie autonome Aspekte
+unserer menschlichen Existenz in ihrer Problematik wie Potentialität umgreift" (Kurbacher, 2016,
+S.145). Eine richtig knappe und präzise Definition liefert Kurbacher selbst nicht und begründet dies
+auch (vgl. Kurbacher, 2016, S.11).
+
+##### Frage 4: Wie viel Mut kostet eine Haltung? Widerstände?
+
+Als erstes haben wir konkrete Beispiele gesammelt. Ein naheliegendes war KI: Wenn ich auf KI-Tools
+angewiesen bin, weil ich sonst im Studium, oder aber im Job den Anschluss verliere nutze ich sie
+dann, obwohl ich es eigentlich nicht möchte, oder bleibe ich standhaft?
+
+Gregor hat dazu zwei reale Fälle eingebracht: einmal Google und das US-Verteidigungsministerium,
+wo Google-Mitarbeiter gegen die Kooperation gestreikt haben, und einen aktuellen Fall mit Anthropic
+und einem US-Ministerium. Außerdem haben wir auf den Mut zum Widerstand gegen das NS-Regime
+hingewiesen, der natürlich eine ganz andere Größenordnung hatte. Dies wird in den kommenden
+Sitzungen aber noch weiter thematisiert.
+
+Die Gruppe ist zu dem Schluss gekommen, dass Haltung zu zeigen sowohl viel als auch wenig Mut
+kosten kann. Nach Kurbacher ist eigentlich jede interpersonelle Handlung schon Teil einer Haltung.
+Insofern leben wir Haltung im Alltag ständig aus, oft ohne groß darüber nachzudenken. Schwierig
+wird es dann, wenn Angst, Abhängigkeit, Bequemlichkeit oder einfach die schiere Komplexität der
+(digitalen) Welt dazukommen. Gerade im Digitalen ist es oft kaum durchschaubar, was die eigenen
+Handlungen bewirken und genau das hemmt oder hindert uns, Haltung zu zeigen (vgl. Zöllner, 2019,
+S.219).
+
+##### Frage 5: Wie kann man Haltung praktisch umsetzen?
+
+Zu Frage 5 sind wir nicht gekommen. Diese wird nächste Woche noch einmal besprochen.
+Kurzes Fazit
+
+Der für mich wichtigste Punkt der Sitzung: Haltung ist nichts, was man einmal hat und dann für
+immer ist. Beide Texte zeigen aus verschiedenen Richtungen, dass Haltung sich im Tun zeigt und auf
+Beziehungen angewiesen ist. Genau deshalb ist sie im Kontext Exil so interessant. Wer seinen
+gewohnten Rahmen verliert, verliert erstmal auch das, was seine Haltung bisher getragen hat, und
+muss sie dann neu finden oder neu verteidigen.
+
+### Literatur
+
+* Grimm, P., Keber, T. O., & Zöllner, O. (2019). Digitale Ethik. Leben in vernetzten Welten. Reclam.
+* Kurbacher, F. A. (2016). Interpersonalität zwischen Autonomie und Fragilität. Grundzüge einer Philosophie der Haltung. In F. A. Kurbacher & P. Wüschner (Hrsg.), Was ist Haltung? Begriffsbestimmung, Positionen, Anschlüsse (S. 145–162). Königshausen & Neumann.
 
 ### Zur nächsten Sitzung
 
@@ -262,21 +347,108 @@ Bitte lest außerdem:
 * (Optional) Lars Lambrecht: Vom ›Geist unbefangener Menschlichkeit‹ Hannah Arendt und Karl Jaspers als Beispiele kritischer Haltung in der Zeit des Nationalsozialismus. In: Hans Jörg Sandkühler: Philosophie im Nationalsozialismus.
 
 
-## Sitzung am 28.04.
+## Sitzungsprotokoll am 28.04.
 
-### Zeitliche Übersicht
+### Vorbereitung und Leitfragen
+
+Zur Vorbereitung auf diese Sitzung war zu recherchieren, welche philosophischen Strömungen und Schulen im deutschsprachigen Raum zu Beginn des 20. Jahrhunderts tätig waren. Außerdem war zu recherchieren, wer Deutschland aufgrund des Nationalsozialismus verlassen musste und wer anschließend zurückkehrte. Zudem war die Einleitung von Hans Jörg Sandkühler "Vergessen? Verdrängt? Erinnert?" zu lesen.
+
+### 1. Historischer Rahmen
 
 ![](img/exil_zeitstrahl.jpg)
 
-### Geographische Übersicht
+Zur Verortung wurde gemeinsam eine Zeitleiste der für die Fragestellung zentralen Daten erarbeitet:
+
+- **1918** Ende des Ersten Weltkriegs
+- **1920** Gründung der NSDAP
+- **1921** Wittgenstein, *Tractatus logico-philosophicus*
+- **1927** Heidegger, *Sein und Zeit*
+- **1929** Weltwirtschaftskrise; **Davoser Disputation** zwischen Ernst Cassirer und Martin Heidegger
+- **1933** Hitler wird Reichskanzler; Reichstagsbrand und Reichstagsbrandverordnung (27./28.02.); Ermächtigungsgesetz; **Gesetz zur Wiederherstellung des Berufsbeamtentums (BBG)** im April; Bücherverbrennungen
+- **1935** Nürnberger Rassengesetze
+- **1938** Reichspogromnacht
+- **1939** Beginn des Zweiten Weltkriegs; Georg-Elser-Attentat; mit Kriegsbeginn werden jüdische Geflüchtete nicht mehr nur als „jüdische Ausländer", sondern auch als „feindliche Ausländer" eingestuft → Inhaftierung in den Aufnahmeländern
+- **1940** Kapitulation Frankreichs
+- **1944** Stauffenberg-Attentat
+- **1945** Kriegsende; Nürnberger Prozesse; ab Wintersemester 1945/46 öffnen die Universitäten wieder
+- **1946** *Rencontres internationales de Genève*
+- **1949** Grundgesetz und Gründung der DDR
+
+**Stellung von Frauen in der Wissenschaft:** Im Kaiserreich waren die Universitäten zwar stark finanziert, Frauen jedoch faktisch von der Lehre ausgeschlossen; die Weimarer Republik finanzierte die Hochschulen schwächer, eröffnete Frauen aber erstmals den Zugang zur akademischen Lehre.
+
+### 2. Strömungen, Schulen und Akteure
 
 ![](img/exil_map.jpg)
+
+Im Plenum wurden zentrale philosophische Schulen und ihre Vertreter ihren Wirkungsorten zugeordnet:
+
+- **Frankfurter Schule** (Frankfurt a. M.): Max Horkheimer, Theodor W. Adorno – ihre marxistisch geprägte Theoriebildung machte sie aus Sicht des Regimes zu einem besonderen Feindbild.
+- **Wiener Kreis – logischer Positivismus** (Wien): Otto Neurath, Rudolf Carnap.
+- **Logischer Empirismus** (Berlin): Hans Reichenbach, Günther Stern.
+- **Warburg-Kreis** (Hamburg): Ernst Cassirer.
+- **Kiel:** Richard Kroner wurde 1934 als Professor entfernt.
+- **Göttingen:** Nicolai Hartmann.
+- **Heidelberg:** Karl Jaspers, Hans Ehrenberg.
+- **Bonn:** Paul Ludwig Landsberg.
+- **München:** Alexander Pfänder.
+- **Freiburg:** Martin Heidegger – NSDAP-Mitglied und einer der ersten prominenten Philosophen, die das Regime öffentlich unterstützten.
+- **Berlin:** Hannah Arendt.
+- **Gießen:** Ernst von Aster.
+
+### 3. Exil
+
+Mit dem BBG (April 1933) begann die systematische Entfernung jüdischer und politisch missliebiger Hochschullehrer aus den Universitäten. Beliebte erste Exilländer waren **Belgien, die Niederlande und die Schweiz**. Mit Kriegsbeginn 1939 verschärfte sich die Lage. Die Umkategorisierung jüdischer Geflüchteter zu „feindlichen Ausländern" führte in den Aufnahmeländern zu Inhaftierungen, die viele zur weiteren Flucht zwangen.
+
+### 4. Rückkehr
+
+Eine Liste aller Rückkehrer wurde nicht erstellt. Allerdings haben wir zwei zentrale Punkte festgehalten. Die **Wiederöffnung der Universitäten ab dem Wintersemester 1945/46** und die **Rencontres internationales de Genève (1946)** markieren den Wiederbeginn des intellektuellen Austauschs nach dem Krieg. Die Wiederöffnung der Universitäten ab dem Wintersemester 1945/46 vollzog sich unter den Bedingungen der alliierten Entnazifizierungspolitik. Viele Lehrstühle waren durch Entlassungen und Kriegseinwirkungen unterbesetzt. Sie mussten neu besetzt werden, teils durch Personen, die bereits unter dem Regime gelehrt hatten und nun politisch überprüft wurden. Teilweise aber auch durch zurückgekehrte Personen.
+
+### 5. Eindrücke vom Text
+
+Aus der Lektüre der Sandkühler-Einleitung wurden in der Diskussion drei Punkte besonders hervorgehoben:
+
+- **Karl Mannheim:** Die im Text herangezogenen Aussagen Mannheims blieben für uns deutungsoffen und wurden als zu klärende Stelle für die weitere Auseinandersetzung notiert.
+
+- **Der Fall Landsberg:** Paul Ludwig Landsberg musste fliehen, wurde aber zugleich vom Regime positiv erwähnt. Dieses Beispiel macht deutlich, dass Verfolgung und ideologische Vereinnahmung nicht gegeneinander stehen müssen.
+
+- **Vorsicht bei Universitätsaussagen unter Diktaturen:** Sandkühlers Mahnung, dass Aussagen aus Universitäten unter einer Diktatur kritisch zu lesen sind, weil Diktaturen die Seele verändern, wurde als zentrale methodologische Leitlinie festgehalten. Im Nachhinein lässt sich nur schwer feststellen, wer wirklich ideologisch überzeugt war und wer sich aus Anpassung entsprechend äußerte.
+
 
 ### Zur nächsten Sitzung
 
 Bitte bereitet für die Sitzung am 05.05. aus Landsbergs "Einführung in die Anthropologie" (1934) die Seiten 9 bis 30, für den 12.05. die Seiten 74 bis 96 vor (beide Abschnitte findet ihr im gleichen Dokument). Zudem dient der Text Geist im Exil von Eduard Zwierlein (2009) als Hintergrund für beide Sitzungen; er ist länger, aber deutlich einfacher zu lesen und geht auf die Biographie von Paul Ludwig Landsberg und seinen Weg in und durch das Exil ein. 
 
-## Sitzung am 05.05.
+## Sitzungsprotokoll 05.05.
+
+### Wer war Paul Ludwig Landsberg?
+
+Paul Ludwig Landsberg war einer von vielen deutschen Philosophen mit jüdischer Herkunft, die zur Zeit des Nationalsozialismus aus Deutschland fliehen mussten (ULB, 2024). Landsberg, der in einem gebildeten Elternhaus aufwuchs, begeisterte sich bereits in jungem Alter für die Philosophie, insbesondere für den marxistischen Sozialismus und vertrat seine Haltung ebenfalls nach außen. Ein wichtiger Mentor war sein philosophischer Lehrer Max Scheler, der ihn während seiner Karriere oft zur Seite stand. Nach der Schule studierte er zuerst 1920/21 in Freiburg, wo er unter anderem Martin Heidegger kennenlernte. Paradoxerweise war Landsberg zur Lebenszeit mit mehreren deutschen Philosophen, z.B. Heidegger und Erich Rothacker in Kontakt gestoßen, die später während des Nationalsozialismus das Regime aktiv unterstützten, zu ihm allerdings noch nach dem Ende des Zweiten Weltkrieg engen Kontakt pflegten (Peter, 2018; ULB, 2025). Nach einem weiteren Universitätsaufenthalt von 1921 bis 1923 in Köln ging Landsberg nach Berlin. Der Tod seines Vaters 1927 und der Tod Max Schelers 1928 trafen Landsberg schwer. Diese Ereignisse könnten Landsberg unter anderem später zu seiner philosophischen Anthropologie inspiriert haben, um der Bestimmung des Menschen näher zu kommen. 1928 habilitierte er an der Universität Bonn und lehrte dort ab 1929 als Privatdozent. 1932 war sein Entwurf "Einführung in die philosophische Anthropologie" fertig, dessen Veröffentlichung 1934 erst zu seiner Exilzeit stattfand. Denn nachdem er die NSDAP kritisierte und aufgrund dessen unter Beobachtung stand, entschied er sich 1933 frühzeitig in die Schweiz und danach nach Frankreich zu fliehen. 1934 migrierte er stets mit seiner Frau weiter nach Spanien, um dort erneut als Professor in Barcelona zu lehren. Um den sich anbahnenden Bürgerkrieg in Spanien zu umgehen, begab sich Landsberg 1936 nach Paris. Nach der Besetzung Frankreichs durch die Nationalsozialisten wurde Landsberg 1943 von der Gestapo festgenommen und in das KZ Oranienburg-Sachsenhausen verschleppt, wo er bis zu seinem Tod 1944 verblieb. Zu seiner Zeit auf der Flucht blieb Landsberg trotz schwerer Schicksalsschläge stets optimistisch und aufrecht. Paul Ludwig Landsberg ist in Deutschland nach seinem Tod bis heute relativ unbekannt geblieben. (Zwierlein, 2009)
+
+### Philosophische Anthropologie
+
+#### Geschichte
+
+Die philosophische Anthropologie beschäftigt sich mit der Selbstauffassung des Menschen und untersucht, was der Mensch ist und wozu er bestimmt ist (Landsberg, 1934). Mit der philosophischen Anthropologie beschäftigte sich bereits Aristoteles, der erkannte, dass der Mensch Vernunft besitzt und sich dadurch als Wesen vom Tier unterscheidet. Anfang des 20. Jahrhunderts begannen deutsche Philosophen, u.a. Landsberg, Scheler, Gehlen erneut sich mit der philosophischen Anthropologie zu beschäftigen.  
+
+#### Philosophische Anthropologie nach Landsberg
+
+Landsberg hält fest, dass jede (un)bewusste Beschäftigung mit dem Menschen immer aus einer spezifischen Perspektive mit einer Vorstellung geschieht. Außerdem unterscheidet er zwischen Merkmals- und Wesensanthropologie. (Landsberg, 1934)
+
+##### Merkmalsanthropologie
+
+Die Merkmalsanthropologie versucht besondere Merkmale aus Beobachtungen von außen zu identifizieren, die den Menschen als eigene Gattung von anderen Tiergattungen unterscheiden. Daher spricht man auch vom empirischen Gattungsbegriff. Landsberg kritisiert hierbei vor allem die Bezeichnung des Menschen als höchste Tiergattung und vergleicht die Gattungen aus unterschiedlichen Perspektiven. So müsse sich der Mensch zum Beispiel mittels Bildung Wissen selbst aneignen, da er im Vergleich zu anderen Gattungen relativ wenige Instinkte bzw. spezialisiertes Wissen besitze. (Landsberg, 1934)
+
+##### Wesensanthropologie  
+
+Die Wesensanthropologie fragt nach dem Wesen des Menschen und untersucht, was den Menschen im Innersten ausmacht und grundlegend bestimmt. Daher spricht man auch vom Wesensbegriff. Nach Landsberg müsse jede isolierte Frage über den Menschen auf die Wesensfrage bezogen werden, um den Menschen als Ganzes betrachtet zu untersuchen. (Landsberg, 1934)
+
+### Literaturverzeichnis
+
+* Landsberg, P. L. (1934). *Einführung in die philosophische Anthropologie*. Vittorio Klostermann.
+* Peter, C. (2018). Martin Heideggers Rechtsdenken und der Nationalsozialismus. *ARSP: Archiv Für Rechts- Und Sozialphilosophie*, 104(2), 202–219. http://www.jstor.org/stable/45175227
+* Universitäts- und Landesbibliothek Bonn. (2024, 28. Mai). *Zum 80. Todesjahr von Paul Ludwig Landsberg*. https://www.sammlungen.ulb.uni-bonn.de/de/aktuelles/zum-80-todesjahr-von-paul-ludwig-landsberg
+* Universitäts- und Landesbibliothek Bonn. (2025, 10. August). *Im Fadenkreuz: Erich Rothacker (1888-1965)*. https://www.sammlungen.ulb.uni-bonn.de/de/aktuelles/im-fadenkreuz-erich-rothacker-1888-1965
+* Zwierlein, E. (2009). Geist im Exil. In P. L. Landsberg (Hrsg.), *Die Erfahrung des Todes* (S. 117-159). Matthes & Seitz Berlin.
 
 ### Zur nächsten Sitzung
 
