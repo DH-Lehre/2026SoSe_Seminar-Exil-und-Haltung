@@ -61,7 +61,7 @@ narrator: UK English Female
 | 02.06. | Was sind und was machen die Digital Humanities? | Jan-Lukas |
 | 09.06. | Beispiel III: Ein Verzeichnis geflohener Philosophinnen / RDF und *knowledge graphs* | Elina |
 | 16.06. | **III. Praxisteil / Projektphase.** Recherche(methoden) und mögliche Quellen | Julius |
-| 23.06. | Methode: Philosophische Podcasts und das Schreiben eines Skripts |   |
+| 23.06. | Methode: Philosophische Podcasts und das Schreiben eines Skripts | Malte |
 | 30.06. | Arbeitssitzung |   |
 | 07.07. | Vertiefung, tba | - |
 
@@ -454,7 +454,51 @@ Die Wesensanthropologie fragt nach dem Wesen des Menschen und untersucht, was de
 
 Bitte bereitet für die Sitzung am 05.05. aus Landsbergs "Einführung in die Anthropologie" (1934) die Seiten 9 bis 30, für den 12.05. die Seiten 74 bis 96 vor (beide Abschnitte findet ihr im gleichen Dokument). Zudem dient der Text Geist im Exil von Eduard Zwierlein (2009) als Hintergrund für beide Sitzungen; er ist länger, aber deutlich einfacher zu lesen und geht auf die Biographie von Paul Ludwig Landsberg und seinen Weg in und durch das Exil ein. 
 
-## Sitzung am 12.05.
+## Sitzungsprotokoll am 12.05.
+
+**Seminar:** *Exil und Haltung - Digital Humanities in Philosophie und Informatik (SoSe 2026, CAU Kiel)*
+**Leitung:** *Dr. Gregor Große-Bölting und Moritz Riemann*
+**Datum:** *Sitzung am 12.05.2026*
+**Protokollant:** *Jakob*
+
+### 1. Vorbereitung auf die Sitzung
+
+Die Grundlage der Sitzung bildete der Text von Paul Ludwig Landsberg „Einführung in die philosophische Anthropologie" von 1934, insbesondere die Seiten 74 bis 96. Als biographischer Hintergrund diente ergänzend der Text „Geist im Exil" von Eduard Zwierlein (2009).
+
+### 2. Relevante Fachbegriffe
+
+Im Text von Landsberg werden verschiedene Begriffe genannt, die für das Verständnis des Textabschnitts notwendig sind. Diese sind hier aufgeführt und erläutert:
+- **Determinismus:** Die Auffassung, dass die Zukunft des Menschen gesetzmäßig festgelegt ist und er sie nicht frei gestalten kann.
+- **Individualismus:** Die Überzeugung, dass jeder Mensch als einzigartige Einzelperson zur Verwirklichung der Menschheitsidee beiträgt.
+- **Kollektivismus:** Die Auffassung, dass der Mensch vor allem Teil eines größeren Ganzen wie Nation, Klasse oder Geschichte ist.
+- **Humanismus:** Die Idee, dass der Mensch sich geschichtlich entfaltet und Freiheit, Verantwortung sowie Gemeinschaft miteinander verbindet.
+
+### 3. Wichtige Aspekte des Textes
+
+Ein zentrales Thema des Textabschnitts ist die begriffliche Spannung zwischen "Volk" und "Humanität", welche von einer Kommilitonin aus der Philosophie als wichtiger Aspekt identifiziert wurde. Landsberg hebt hervor, dass sich die Humanitätsbegriffe der großen Nationen komplementär zu deren Nationalideen verhalten und dadurch je spezifisch geprägt sind (Landsberg, 1934, S. 75). Besonders deutlich wird diese Spannung, wenn Landsberg feststellt, dass sich der Nationalitätsbegriff in Deutschland "wesentlich in Opposition gegen den Humanitätsbegriff formte" (Landsberg, 1934, S. 76).
+
+Ein weiterer zentraler Aspekt ist die Gegenüberstellung des französischen Kollektivismus und des deutschen Individualismus. Nach Landsberg erfolgt die Entwicklung der Humanitätsidee in Frankreich als Folge der antireligiösen Aufklärung und der Französischen Revolution, deren "notwendige Consequenz (...) eben der Übergang zum Collectivismus" war (Landsberg, 1934, S. 75). Beim deutschen Individualismus hingegen wird die Humanitätsidee stets mit einer Vorstellung vom individuellen Fortleben verbunden. Humanität erscheint hier als individuelle Bildungsaufgabe, unlösbar verknüpft mit der Unsterblichkeit der Person. In Frankreich hingegen gilt sie als kollektiver Gattungsprozess, in dem der Einzelne im historischen Ganzen aufgehoben ist. Landsberg wertet diese Gegenüberstellung nicht einseitig, sondern zeigt, dass beide Formen in Spannung zur Religion geraten, sobald die Menschheit sich selbst an die Stelle Gottes setzt (Landsberg, 1934, S. 74).
+
+### 4. Historische Entwicklung der Humanitätsidee
+
+Landsberg verweist auf einen entscheidenden Wandel im späten 18. Jahrhundert: An die Stelle der Theologie tritt die Anthropologie, wobei sich die Grundlage menschlichen Handelns nicht mehr aus göttlichen Geboten ableitet, sondern aus dem „eigenen Wesen als Mensch, das Gott in ihn hineingelegt hat" (Landsberg, 1934, S. 78). Als weiteres Schlüsselereignis hebt Landsberg den Ersten Weltkrieg hervor, den er als „das erste wirkliche gemeinsame historische Erlebnis der empirischen Gesamtheit einer Menschheitsgeneration" bezeichnet (Landsberg, 1934, S. 78).
+
+In diesem Kontext führt Landsberg den Begriff der „Autonomie" ein (Landsberg, 1934, S. 78). Durch die Verbindung des Geschichtlichen mit einer Verinnerlichung des Ethischen gelangt er zu der Auffassung, „daß das Wesen des Menschen das Werdesein einer sich entfaltenden Idee sei" (Landsberg, 1934, S. 79). Darin erblickt er einen „dauernden Gehalt der Humanitätsidee" (Landsberg, 1934, S. 79).
+
+Besonders relevant ist in diesem Zusammenhang der Satz: „Humanitätsidee freilich und strenger Determinismus schließen sich aus" (Landsberg, 1934, S. 85). Landsberg verweist damit auf die Zukunft der Humanitätsidee und darauf, dass der Mensch tatsächlich Verantwortung für die Richtung tragen kann, die das Werden der Menschheit nimmt. „Strenger Determinismus“ hingegen besagt, dass die Zukunft bereits festgelegt ist. Daraus lässt sich schließen, dass derjenige, der den Menschen als vollständig bestimmtes Naturwesen begreift, die Grundbedingung der Humanitätsidee bereits aufgegeben hat.
+
+### 5. Was sagt der Text über den Haltungsbegriff?
+
+Den Begriff der Haltung verwendete Landsberg nur einmal. Er stellt fest, dass „jede Beschäftigung mit dem Menschen schon abhängig ist von einer solchen Gesamtselbstauffassung, welche die Haltung des Forschers bestimmt" (Landsberg, 1934, S. 11). Haltung wird hier als ontologische Vorentscheidung verstanden, nicht als neutrale Einstellung, sondern als immer wirksame Grundorientierung. 
+Ein weiterer Satz lässt sich als impliziter Haltungsgedanke Landsbergs deuten: „daß Anlaß und Notwendigkeit zu Haß und Krieg verschwinden" (Landsberg, 1934, S. 94). Darin zeigt sich eine friedliche Zukunftsvision, die davon ausgeht, dass Hass und Krieg nicht naturgegeben oder unvermeidbar sind.
+
+### 6. Zusammenfassung
+
+Die Seiten 74–96 bei Landsberg behandeln zentrale Fragen der Humanitätsidee: die historische Entwicklung, die Spannung zwischen nationalem und universalem Denken sowie die Verantwortung des Menschen für die geschichtliche Entwicklung. Der Vergleich zwischen französischem Kollektivismus und deutschem Individualismus verdeutlicht, wie unterschiedlich die Humanitätsidee kulturell geprägt sein kann. Verbindungen zum Haltungsbegriff zeigen sich vor allem in Landsbergs Verständnis von Forschung als wertgebundener Praxis und in seiner friedlichen Zukunftsvision.
+
+### 7. Literaturverzeichnis
+
+Landsberg, P. L. (1934). *Einführung in die philosophische Anthropologie*. Vittorio Klostermann.
 
 ### Zur nächsten Sitzung
 
@@ -606,10 +650,80 @@ Entwickelt *Distant Reading* Ideen für die Vorlesung "Why and How We Study Phil
 
 ![](img/Bildet_olsenbanden.jpg)
 
+
+### Sitzungsprotokoll – Sitzung vom 19.05.
+
+Ab dieser Sitzung wird mit dem Thema Digital Humanities begonnen, insbesondere wird sich heute mit automatischer Textanalyse beschäftigt. Als Erstes wird die Biographie von Heinrich Blücher und Hannah Arendt besprochen und später in die Grundlagen der automatischen Textverarbeitung eingeleitet sowie ein Beispiel der Analyse von Heinrich Blüchers Vorlesungen mit Nutzung des Tools Voyant gegeben.
+
+#### 1. Heinrich Blücher und Hannah Arendt – Biographie
+
+*Die folgenden biographischen Angaben stützen sich auf den Wikipedia-Artikel „Heinrich Blücher" („Heinrich Blücher", o. J.).*
+
+Heinrich Blücher (1899–1970), Hannah Arendts zweiter Mann, stammte aus einer armen Familie. Er hat ein Begabtenstipendium erhalten, das ihm ermöglichte, die höhere Schule zu besuchen. Vor dem Ersten Weltkrieg trat er einem zionistischen Jugendbund bei, obwohl er kein Jude war. Danach geriet er in kommunistische Kreise, wurde KPD-Mitglied und arbeitete bis 1933 im illegalen Militär-Apparat der KPD.
+
+1933 ist er nach Prag geflohen. In Prag wurde er 1934 als Kommunist und feindlicher Ausländer festgenommen und ausgewiesen. Anfang 1935 kam er nach Paris. Dort gehörte er den antistalinistischen „Versöhnlern" an, die deshalb aus der KPD ausgeschlossen wurden. Im Jahr 1936 hat er Arendt kennengelernt, und 1937 heirateten sie in Paris. 1941 sind Hannah Arendt und Heinrich Blücher aus Frankreich nach New York geflohen. Später hat Heinrich Blücher die amerikanische Staatsbürgerschaft erhalten.
+
+Blücher hat ab 1950 Vorlesungen an der New School gehalten und wurde später Professor am Bard College, obwohl er keinen Universitätsabschluss hatte. Seine Vorlesungen wurden durch studentische Mitschriften und Tonaufnahmen publiziert. Blücher starb 1970 an einem Herzinfarkt, fünf Jahre vor Arendt. Von den beiden sind viele Briefe erhalten. Sie sind heute wertvolle Zeitdokumente.
+
+#### 2. Grundlagen der automatischen Textverarbeitung
+
+Bei der Textverarbeitung im Sinne der Informatik handelt es sich um Binärdaten. Alle Texte sind als Zeichenketten oder sogenannte Strings repräsentiert und alle Zeichen wurden codiert.
+
+Ursprünglich wurde die ASCII-Codierung (American Standard Code for Information Interchange) benutzt. Alle Zeichen werden durch 7 oder 8 Bits dargestellt, somit werden sie in Binärform kodiert.
+
+Heutzutage gibt es neue Systeme wie UTF-8, damit wird die Repräsentation komplizierter, weil es nicht mehr 7 Bits hat, sondern deutlich mehr.
+
+Diese Kodierungsverfahren ermöglichen die Speicherung und Analyse von Texten in digitaler Form und sind die Grundlage für den Umgang mit Texten im Digital-Humanities-Kontext.
+
+##### 2.1 Dokument und Korpus
+
+Textanalyse kann auf einem Dokument oder Korpus basieren. Der Unterschied zwischen Dokument und Korpus ist nicht festgelegt. Zum Beispiel können Vorlesungen von Heinrich Blücher sowohl als einzelnes Dokument als auch als Korpus betrachtet werden.
+
+Generell ist das Dokument die kleinste Einheit im Kontext der Textanalyse, und es handelt sich um eine einzelne Texteinheit beliebiger Länge.
+
+Unter einem Korpus wird eine Sammlung von Dokumenten verstanden. Damit wird eine umfassende Analyse ermöglicht.
+
+##### 2.2 Stopword Removal
+
+Das Stopword Removal ist ein klassisches Vorgehen bei der Textanalyse und bezieht sich auf die Entfernung von bedeutungslosen Wörtern. 
+
+Der Grund dafür ist das Sparen von Speicherplatz und Rechenzeit; es ermöglicht präzisere Textanalysen und die Spezifika eines Textes zu identifizieren.
+
+##### 2.3 Stemming und Lemmatisierung
+
+Stemming und Lemmatisierung sind zwei Methoden, die Wörter auf ihre Grundformen reduzieren.
+
+Stemming ist die Rückführung von Wörtern auf ihren Wortstamm durch die Entfernung üblicher Suffixe. Zum Beispiel würden die Wörter „Error" und „Errorness" beide auf den gesamten Stamm „Error" zurückgeführt.
+
+Bei der Lemmatisierung werden Wörter auf das Lemma zurückgeführt (auf den kleinstmöglichen Eintrag). Zum Beispiel würden die Wörter „las" und „gelesen" zu „lesen" zusammengeführt.
+
+Beide Verfahren verbessern die Extraktion von Schlüsselinformationen aus Texten und reduzieren Rauschen, aber die Lemmatisierung reduziert stärker.
+
+##### 2.4 Bag-of-Words und n-Gramme
+
+Bag-of-Words ist eine Textrepräsentation, wobei nur die Häufigkeit von Wörtern im Text berücksichtigt wird, ohne Bezug auf den Kontext. Die Wörter werden in einer Liste mit Paaren aus Wort und Anzahl gepackt. Sie wird für Textklassifikation, Clustering und andere Textanalysen benutzt.
+
+Bei n-Grammen bleibt der Vorkommenskontext erhalten, d. h. man schaut, in welcher Wortkombination ein Wort auftaucht. Allgemein ist ein *n-Gramm* in der Sprachverarbeitung eine aufeinanderfolgende Sequenz von n Elementen (normalerweise Wörtern), die aus einem Text extrahiert werden.
+
+Die Methoden können benutzt werden, um die Ähnlichkeit von Texten zu bestimmen.
+
+##### 2.5 Häufigkeit und Dichte
+
+Die Worthäufigkeit (Term Frequency, TF) bestimmt, wie oft ein Wort im Text erscheint, und lässt bestimmen, welche Wörter am häufigsten vorkommen. Dies lässt verstehen, welche Wörter am relevantesten sind, und ergibt ein grobes Bild des Textinhalts.
+
+Die Wortschatzdichte (Vocabulary Density) ist das Verhältnis der einzigartigen Wörter zur Gesamtanzahl der Wörter in einem Dokument. Sie beantwortet Fragen wie „Wie kreativ ist der Autor im Wortgebrauch?" oder „Wie viele neue Wörter tauchen in dem Text im Verhältnis zum Gesamttext auf?".
+
+##### 2.6 Textanalyse-Tool: Voyant
+
+Voyant ist ein Open-Source-Tool für Textanalyse mit benutzerfreundlicher Oberfläche. In der Kleingruppenarbeit wurden die Vorlesungen *Why and How We Study Philosophy* mit Voyant analysiert. In der Besprechung wurde festgestellt, dass die statistische Auswertung von Texten nicht das Lesen ersetzt und kein Verständnis der Texte ermöglicht. Aber wenn es sich um eine große Menge von Texten handelt, z. B. 30 000 Büchern, dann ermöglicht die Textanalyse einen groben Überblick über die Themen. Auch von den Gruppen wurde festgelegt, dass solche Tools hilfreich sein können bei der Analyse von Geschichte und dabei, in welchen Zeitperioden welche Themen von Bedeutung in der Gesellschaft waren.
+
+#### Quellen
+
+Heinrich Blücher. (o. J.). In *Wikipedia*. Abgerufen am 1. Juni 2026, von https://de.wikipedia.org/wiki/Heinrich_Bl%C3%BCcher
+
 ### Zur nächsten Sitzung
 
 ## Sitzung am 26.05. 
-
 
 ### XML-Grundlagen
 
@@ -884,6 +998,43 @@ Innerhalb der `<fileDesc>` stehen verpflichtend:
 
 Wie für die meisten Dinge zu Beginn einer Publikation, ist es ratsam, diese Informationen erst am Ende des Prozesses einzutragen und zu Beginn lediglich Platzhalter zu schreiben.
 
+### Sitzungsprotokoll 26.05.2026
+
+In der Sitzung ging es um das Briefnetzwerk von Lotte Labowsky, Gertrud Bing und Raymond Klibansky. Automatische Texttranskription, TEI-XML und digitale Auswertung wurden ebenfalls besprochen. Die geplante Theoriesitzung wurde auf die nächste Woche verschoben und stattdessen wurde zuerst ein praktisches Beispiel behandelt, damit man sehen konnte, wie digitale Methoden in der Forschung angewendet werden.
+
+#### Forschungsdatenzyklus
+
+Zu Beginn wurde der Forschungsdatenzyklus besprochen. Forschungsdatenzyklus beschreibt nicht nur den Weg der Forschungsdaten, sondern auch die Arbeitsschritte der Forschenden. Dazu gehören Planen, Sammeln, Speichern, Auswerten, Beschreiben, Archivieren, Teilen und Nachnutzen. Forschung beginnt also nicht immer komplett neu. Häufig werden vorhandene Daten oder Ergebnisse genutzt, bearbeitet und später wieder anderen zur Verfügung gestellt.
+
+#### Briefe als Forschungsgegenstand
+
+Danach ging es um die Frage, warum Briefe für die Philosophie interessant sein können. Das ist nicht selbstverständlich, weil Philosophie oft eher mit fertigen Texten, Begriffen und Argumenten verbunden wird. In der Sitzung wurde dafür die Sozialgeschichte der Philosophie genannt. Man schaut nicht nur auf fertige philosophische Werke, sondern auch auf die sozialen Bedingungen, unter denen Forschung entstanden ist. Briefe können dafür hilfreich sein, weil sie Kontakte, Arbeitsverhältnisse und persönliche Beziehungen sichtbar machen.
+
+#### Historischer Hintergrund
+
+Lotte Labowsky, Gertrud Bing und Raymond Klibansky standen alle im Umfeld der Kulturwissenschaftlichen Bibliothek Warburg bzw. des späteren Warburg Institute. Die Bibliothek wurde von Aby Warburg in Hamburg aufgebaut. Sie war nach dem Prinzip der „guten Nachbarschaft“ geordnet, also nicht nur nach festen Fachgebieten, sondern nach inhaltlichen Zusammenhängen. Nach 1933 wurde die Bibliothek wegen der nationalsozialistischen Verfolgung nach London gebracht und dort später als Warburg Institute weitergeführt.
+Gertrud Bing war eng mit der Warburg-Bibliothek verbunden. Raymond Klibansky war Philosoph und gehörte ebenfalls zu diesem Umfeld. Lotte Labowsky war Altphilologin und arbeitete eng mit Klibansky zusammen. Bei Bing und Labowsky wurde auch angesprochen, dass ihre Arbeit wichtig war, aber nicht immer so sichtbar wurde, wie die Arbeit männlicher Wissenschaftler.
+
+#### Gruppenarbeit mit den Briefen
+
+Nach der Einordnung wurden drei Kleingruppen gebildet und jede Gruppe bekam ein anderes Briefkonvolut aus OpenOLAT. Die Aufgabe war, einen groben Überblick zu bekommen, worüber wird geschrieben und was zeigen die Briefe über das Verhältnis zwischen Labowsky, Bing und Klibansky?
+In der gemeinsamen Besprechung fiel zuerst auf, dass Labowsky und Klibansky eine sehr persönliche Beziehung hatten. In einem Brief aus dem zweiten Konvolut ging es zum Beispiel darum, dass Raymonds Mutter und Sonja Lotte besucht hatten. Bei den Briefen zwischen Bing und Klibansky wirkte das Verhältnis dagegen eher akademisch und arbeitstechnisch. Dort ging es vor allem um Publikationen, Korrekturen, Förderungen und organisatorische Fragen.
+Außerdem wurde sichtbar, dass die Briefe sehr unterschiedlich sind. Manche sind maschinengeschrieben, andere handschriftlich. Sie wechseln auch zwischen Deutsch und Englisch. Besonders die Handschrift von Gertrud Bing wurde als schwer lesbar beschrieben. Ein anderes Beispiel war, dass Labowsky Klibansky einen Fragebogen vorbereitet hatte, damit er schneller antworten konnte. Man kann dann verstehen, dass die Briefe also persönliche Beziehungen, wissenschaftliche Zusammenarbeit und auch Alltagsprobleme zeigen.
+
+#### Transkription und TEI-XML
+
+Danach ging es darum, wie die Briefe weiterverarbeitet werden können. Zuerst liegen sie nur als PDF oder Bilddaten vor. Damit man sie digital auswerten kann, müssen sie in maschinenlesbaren Text umgewandelt werden. Deshalb wurde Transkribus gezeigt. Transkribus kann handschriftliche und maschinengeschriebene Texte automatisch transkribieren. Das Ergebnis ist nicht perfekt und muss kontrolliert werden, aber es nimmt schon viel Arbeit ab. Auch bei schlechten Scans oder wenig Kontrast wird die Erkennung schwieriger.
+Danach wurde XML besprochen. Der reine Text reicht für die Auswertung nicht aus, weil zusätzliche Informationen gebraucht werden. Man kann zum Beispiel markieren, wann ein Brief geschrieben wurde, wer ihn geschrieben hat, an wen er ging oder welche Personen und Orte vorkommen. Für solche geisteswissenschaftlichen Texte wird TEI XML genutzt. Namen und Orte können außerdem mit eindeutigen Referenzen verbunden werden, zum Beispiel mit der GND für Personen oder Geonames für Orte.
+
+#### Auswertung
+
+Zum Schluss wurde gezeigt, was man mit solchen aufbereiteten Daten machen kann. Wenn Personen und Orte markiert sind, können sie mit Programmen weiterverarbeitet werden. Ein Beispiel war eine Netzwerkvisualisierung, die zeigt, welche Personen miteinander verbunden sind oder gemeinsam erwähnt werden. Auch Orte können ausgewertet werden. So kann man sehen, welche geographischen Bezüge in den Briefen vorkommen.
+
+#### Quellen
+
+* Lotte Labowsky. In *Wikipedia*. Abgerufen am 5. Juni 2026, von https://de.wikipedia.org/wiki/Heinrich_Bl%C3%BCcher
+* Gertrud Bing. In *Wikipedia*. Abgerufen am 5. Juni 2026, von https://de.wikipedia.org/wiki/Gertrud_Bing
+* Raymond Klibansky. In *Wikipedia*. Abgerufen am 5. Juni 2026, von https://de.wikipedia.org/wiki/Raymond_Klibansky
 
 ### Zur nächsten Sitzung
 
