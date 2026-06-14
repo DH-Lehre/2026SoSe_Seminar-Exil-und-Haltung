@@ -59,9 +59,9 @@ narrator: UK English Female
 | 19.05. | **II. Digital Humanities.** Beispiel I: Heinrich Blüchers Vorlesungen im Exil / statistische Auswertung von Texten | Valeriia |
 | 26.05. | Beispiel II: Das Briefnetzwerk von Lotte Labowsky, Gertrud Bing und Raymond Klibansky / automatische Texttranskription und TEI XML | Jeremy |
 | 02.06. | Was sind und was machen die Digital Humanities? | Jan-Lukas |
-| 09.06. | Beispiel III: Ein Verzeichnis geflohener Philosophinnen / RDF und *knowledge graphs* | Elina |
-| 16.06. | **III. Praxisteil / Projektphase.** Recherche(methoden) und mögliche Quellen | Julius |
-| 23.06. | Methode: Philosophische Podcasts und das Schreiben eines Skripts | Malte |
+| 09.06. | Methode: Philosophische Podcasts und das Schreiben eines Skripts | Elina |
+| 16.06. | **III. Praxisteil / Projektphase.** Beispiel III: Ein Verzeichnis geflohener Philosophinnen / RDF und *knowledge graphs* | Julius |
+| 23.06. | Recherche(methoden) und mögliche Quellen | Malte |
 | 30.06. | Arbeitssitzung |   |
 | 07.07. | Vertiefung, tba | - |
 
@@ -175,7 +175,34 @@ Eine gute (oder bessere) Arbeit
 
 #### Hinweise zum Skript / Podcast (für Informtiker_innen)
 
-**Aufgabenstellung:** tba
+**Aufgabenstellung:** Produziert einen philosophischen Podcast von 5-10 Minuten (Einzelleistung) oder 20-30 Minuten (Kleingruppe, 3 bis 4 Personen), der folgende inhaltliche Anforderungen erfüllt:
+
+* Der Podcast behandelt mindestens eine Philosoph:in, die in den 1930er Jahren aus Deutschland ins Exil fliehen musste.
+* Er setzt sich mit den Themen Exil und Haltung auseinander; entweder am Beispiel der gewählten Person(en) oder in einer über das Porträt hinausgehenden konzeptuellen Auseinandersetzung.
+* Optional: Der Podcast bezieht Methoden oder Perspektiven der Digital Humanities ein (z.B. Fragen der Überlieferung, Digitalisierung, Sichtbarmachung von Biographien).
+
+Neben dem eingesprochenen Podcast ist ein ausgearbeitetes Skript einzureichen, das als eigenständige Textleistung bewertet wird.
+Skript und Podcast müssen bis zum 30. September 2026 per E-Mail (ggb@informatik.uni-kiel.de) oder die CAU-Cloud bei mir eingereicht werden.
+
+Ein Entwurf des Skripts ist in der Sitzung am 07.07. vorzustellen. 
+
+Weitere Formalia:
+
+* Das Skript ist in Prosa verfasst und so geschrieben, dass es vorgelesen werden kann (gesprochene Sprache, keine Stichpunkte)
+* Verwendete Quellen und Literatur sind gemäß eines üblichen Zitationsstandards (APA, IEEE, ACM o.ä.) am Ende des Skripts angegeben
+* Falls KI-Tools verwendet wurden: Umfang und Prompts angeben
+
+Für eine ausreichende (oder bessere) Arbeit
+
+* Der Podcast hat eine klar erkennbare Ausgangsfrage oder -these
+* Die gewählte Philosoph:in wird in ihrem historischen Kontext vorgestellt
+* Skript und Aufnahme sind inhaltlich konsistent
+
+Eine gute (oder bessere) Arbeit
+
+* Entwickelt eine eigene Perspektive auf die Themen Exil und/oder Haltung, die über die reine Darstellung hinausgeht
+* Nutzt konkrete Beispiele, Zitate oder Quellen, um abstrakte Begriffe zu veranschaulichen
+* Ist so gestaltet, dass sie für fachfremde Zuhörer:innen verständlich und nachvollziehbar ist
 
 #### Hinweise zur Reflexion (für Informatiker_innen)
 
@@ -1086,3 +1113,36 @@ Das zugehörige Paper gibt es hier: https://doi.org/10.1002/9781118609187.ch2 od
 https://newleftreview.org/issues/ii1/articles/franco-moretti-conjectures-on-world-literature
 
 ## Sitzung am 09.06.
+
+### Podcasts
+
+* [DLF Kultur: Wo Adorno Heimat fühlte](https://www.deutschlandfunkkultur.de/zum-50-todestag-des-philosophen-wo-adorno-heimat-fuehlte-100.html)
+* [Women in Paranthesis](https://www.womeninparenthesis.co.uk/resources/the-women-in-parenthesis-podcast/)
+* [Podcasts des Heinrich Blücher-Projekts](https://research.uni-leipzig.de/bluecherproject/)
+
+### Ink-Shedding
+
+1. Schreibt auf ein Din A4-Blatt ein paar Sätze/Stichpunkte/was auch immer zu folgender Fragestellung: 
+
+> Was hat dich in dem Seminar bisher am meisten interessiert? 
+
+2. Findet euch in Kleingruppen (3 bis 4 Personen) zusammen. Tauscht eure Zettel untereinander aus und lest die Zettel der anderen. 
+3. Was findet ihr alle spannend? Fällt euch auf der Grundlage ein Thema ein, das ihr gemeinsam bearbeiten könnt/wollt?
+
+### Zur nächsten Sitzung
+
+Lest den folgenden Artikel:
+
+* Jonathan Blaney, "Introduction to the Principles of Linked Open Data," Programming Historian 6 (2017), https://doi.org/10.46430/phen0068.
+
+Betrachtet anschließend die Informationen Hannah Arendts in der Wikipedia, der DBpedia, bei Wikidata und in der GND:
+
+* https://en.wikipedia.org/wiki/Hannah_Arendt
+* https://dbpedia.org/page/Hannah_Arendt
+* https://www.wikidata.org/wiki/Q60025
+* https://explore.gnd.network/gnd/11850391X?term=Hannah%20Arendt
+
+Versucht die Darstellungsform der Daten über Arendt in Verbindung mit dem Artikel zu bringen. Welche Möglichkeiten könnten sich eröffnen?
+
+## Sitzung am 16.06.
+
