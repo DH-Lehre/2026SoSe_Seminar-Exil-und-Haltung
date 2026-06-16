@@ -1310,4 +1310,10 @@ WHERE {
 
 ### Aufgabe zur nächsten Woche
 
+>Hört mindestens zwei der drei unten verlinkten Podcasts. Achtet dabei auf Sprechsituation, Formelemente, Stilmittel, Einsatz von Begleitmedien, Komposition und Dramaturgie. Überlegt euch, wie ihr einzelne Elemente auf eure Projekte anwenden bzw. variieren könnt.
+
+[Adorno, Kogon, Horkheimer: Die Menschen und der Terror](https://www.youtube.com/watch?v=x-Lezo7Vg4Q)
+[Simone Weil, widerspenstige Denkerin (WDR Zeitzeichen)](https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-simone-weil-widerspenstige-philosophin-100.html)
+[RaDiHum20 Podcast für Digital Humanities](https://radihum20.de/radihum20-spricht-mit-ursula-frohne-und-reinold-schmuecker/)
+
 ## Sitzung am 23.06. 
