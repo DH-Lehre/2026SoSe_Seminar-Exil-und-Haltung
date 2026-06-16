@@ -58,7 +58,7 @@ narrator: UK English Female
 | 12.05. | Vertiefung, Referate | Jakob |
 | 19.05. | **II. Digital Humanities.** Beispiel I: Heinrich Blüchers Vorlesungen im Exil / statistische Auswertung von Texten | Valeriia |
 | 26.05. | Beispiel II: Das Briefnetzwerk von Lotte Labowsky, Gertrud Bing und Raymond Klibansky / automatische Texttranskription und TEI XML | Jeremy |
-| 02.06. | Was sind und was machen die Digital Humanities? | Jan-Lukas |
+| 02.06. | Was sind und was machen die Digital Humanities? | Jan-Lucas |
 | 09.06. | Methode: Philosophische Podcasts und das Schreiben eines Skripts | Elina |
 | 16.06. | **III. Praxisteil / Projektphase.** Beispiel III: Ein Verzeichnis geflohener Philosophinnen / RDF und *knowledge graphs* | Julius |
 | 23.06. | Recherche(methoden) und mögliche Quellen | Malte |
@@ -1146,3 +1146,168 @@ Versucht die Darstellungsform der Daten über Arendt in Verbindung mit dem Artik
 
 ## Sitzung am 16.06.
 
+### Was ist 'Linked Data'?
+
+> Bildet Kleingruppen mit 2 bis 4 Teilnehmer:innen. Jede Kleingruppe sollte mindestens eine:n Philosophie- und Informatikstudierenden beinhalten.
+> 
+> Jede Kleingruppe bearbeitet eine der nachfolgenden Fragengruppen und beantwortet die darin enthaltenen Fragen in Bezug auf die Datenbankeinträge über Hannah Arendt (s. letzte Sitzung). Alle Kleingruppen sollten eine kurze Präsentation vorbereiten, um die Antworten auf ihre Fragen dem Plenum zu präsentieren. Die Form ist dabei den Gruppen überlassen.
+> 
+> Ihr habt dafür 20 bis 25 Minuten Zeit.
+
+Gruppe 1: Allgemeines
+
+* Was bedeutet "offen" im Zusammenhang mit linked open data? Warum ist Offenheit erstrebenswert?
+* Was hat es mit der Eindeutigkeit von Einträgen in linked data auf sich? Was soll eindeutig sein?
+* Was ist ein Tripel? Welche Rolle kommt Tripeln zu?
+
+Gruppe 2: Uniform Resource Identifier (URI)
+
+* Was ist eine URI? Wie unterscheiden sich URIs von URLs?
+* Welche Rolle spielt bzgl. der Eindeutigkeit von URIs das domain name system (DNS)?
+* Wozu werden URIs in linked data verwendet/benötigt?
+* Was bedeutet Dereferenzierung (dereferenciation)?
+
+Gruppe 3: Ontologien
+
+* Was ist (im Zusammenhang mit linked data) eine Ontologie?
+* Wie werden Ontologien im linked data-Kontext eingesetzt?
+* Wie unterscheiden sich Ontologien von Taxonomien?
+* Was ist ein Vokabular, was ist ein Schema?
+
+Gruppe 4: RDF und Datenformate
+
+* Was heißt "Serialisierung" (serialisation)?
+* Was ist Turtle? Wie ist Turtle aufgebaut?
+* Was sind prefixes und wozu werden sie benötigt?
+* In welchem Verhältnis steht RDF zu RDF/XML und RDF zu Turtle?
+
+(optional) Gruppe 5: SPARQL
+
+* Was kann SPARQL? Wozu wird es benötigt?
+* Wie ist eine SPARQL-Anfrage aufgebaut? Was bedeuten Wörter mit einem "?" am Anfang?
+* Was für SPARQL-Anfragen könnten im Zusammenhang mit Exilphilosophinnen interessant sein?
+
+### SPARQL
+
+Für das nachfolgende Beispiel wird auf *namespaces* bzw. Präfixe verzichtet
+
+![Ein Geflecht von Beziehungen](img/5944ff.png)
+
+| subject  | predicate    | object   |
+|----------|---------------|----------|
+| Paul     | istKindVon    | Simone   |
+| Paul     | istKindVon    | Eva      |
+| Paul     | istKindVon    | Tim      |
+| Paul     | befreundetMit | Heiner   |
+| Paul     | befreundetMit | Lisa     |
+| Heiner   | istKindVon    | Eva      |
+| Heiner   | istKindVon    | Tim      |
+| Heiner   | befreundetMit | Paul     |
+| Lisa     | istKindVon    | Tim      |
+| Lisa     | istKindVon    | Marie    |
+| Lisa     | istKindVon    | Heinrich |
+| Lisa     | befreundetMit | Simone   |
+| Simone   | istKindVon    | Bob      |
+| Simone   | istKindVon    | Judith   |
+| Simone   | befreundetMit | Lisa     |
+| Eva      | istKindVon    | Bob      |
+| Eva      | istKindVon    | Pia      |
+| Eva      | befreundetMit | Tim      |
+| Eva      | befreundetMit | Judith   |
+| Tim      | istKindVon    | Judith   |
+| Tim      | istKindVon    | Pia      |
+| Tim      | befreundetMit | Marie    |
+| Marie    | istKindVon    | Judith   |
+| Marie    | istKindVon    | Pia      |
+| Marie    | istKindVon    | Carsten  |
+| Marie    | befreundetMit | Eva      |
+| Heinrich | istKindVon    | Bob      |
+| Heinrich | istKindVon    | Carsten  |
+| Judith   | befreundetMit | Eva      |
+| Judith   | befreundetMit | Pia      |
+| Judith   | befreundetMit | Bob      |
+| Pia      | befreundetMit | Judith   |
+
+#### Aufbau einer (einfachen) Anfrage
+
+```sparql
+# Zeilen, die mit einem '#' sind Kommentare und werden 
+# ignoriert; sie dienen nur dem Verständnis
+
+# benötigte Präfixe werden zu Beginn der Query angeführt 
+# und können dann im Weiteren verwendet werden
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?attr
+WHERE {
+  dbr:My_Subject dbo:my_predicate ?attr .
+}
+```
+
+Um für die folgenden Beispiele zu fragen, welche Freunde Lisa hat, wäre eine einfache Query entsprechend:
+
+```sparql
+SELECT DISTINCT ?freunde
+WHERE {
+  Lisa befreundetMit ?freunde . 
+}
+```
+
+#### Aufgaben
+
+Formuliert jeweils Anfragen zur Beantwortung der folgenden Fragen:
+
+1. Wer sind die Eltern von Tim?
+2. Wer sind die Freunde der Eltern von Heiner?
+3. Wer sind die Eltern der Eltern von Heiner?
+4. Wer sind die Freunde der Eltern der Eltern von Heiner?
+5. Wer sind die Kinder von Judith?
+6. Wer sind die Kinder der Kinder von Judith?
+
+### Anfragen an Wikidata
+
+Ausgehend von der Wikidata-Seite von [Hannah Arendt](https://www.wikidata.org/wiki/Q60025) betrachten wir die folgenden Fragen und ihre Beantwortung mit SPARQL.
+
+**Frage:** Welche anderen Philosoph:innen gehören zur gleichen philosophischen Schule (*movement* in Wikidata) wie Hannah Arendt und an welchen Universitäten wurden sie ausgebildet?
+
+**Antwort:** https://w.wiki/9bkw
+
+---
+
+**Frage:** Welche anderen Schüler der gleichen Lehrer (*student of* in Wikidata) sind auffindbar, wann wurden sie geboren und welcher philosophischen Schule gehören sie an? Falls vorhanden, sollte ein Bild des:der Philosoph:in angezeigt werden.
+
+**Antwort:** https://w.wiki/9bkm
+
+### Anfragen an die DBpedia
+
+Versucht Einträge in der DBpedia zu finden, auf die die folgenden Merkmale (in diesem Fall: Wikipedia-Kategorien) zutreffen:
+
+* Es handelt sich um eine Frau.
+* Es handelt sich um eine Philosophin des 20. Jahrhunderts.
+* Es handelt sich um ein NS-Opfer.
+
+**Lösung:** Um nach Kategorien in der deutsch-sprachigen Wikipedia zu suchen, muss am besten (sofern erreichbar...) der [SPARQL-Endpunkt](http://de.dbpedia.org/sparql) der deutschen DBpedia-Instanz verwendet werden. Die Query, die dann die korrekten Ergebnisse zurückliefert, lautet wie folgt: 
+
+```sparql
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?name ?abstract 
+WHERE {
+    ?philo dct:subject <http://de.dbpedia.org/resource/Kategorie:Frau> ;
+           dct:subject <http://de.dbpedia.org/resource/Kategorie:Philosoph_(20._Jahrhundert)> ;
+           dct:subject <http://de.dbpedia.org/resource/Kategorie:NS-Opfer> ;
+           rdfs:label ?name .
+    OPTIONAL { ?philo dbo:abstract ?abstract . }
+}
+```
+
+### Aufgabe zur nächsten Woche
+
+## Sitzung am 23.06. 
