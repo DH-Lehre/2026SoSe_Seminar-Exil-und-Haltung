@@ -1133,7 +1133,7 @@ https://newleftreview.org/issues/ii1/articles/franco-moretti-conjectures-on-worl
 
 Lest den folgenden Artikel:
 
-* Jonathan Blaney, "Introduction to the Principles of Linked Open Data," Programming Historian 6 (2017), [https://doi.org/10.46430/phen0068](https://doi.org/10.46430/phen0068).
+* Jonathan Blaney, "Introduction to the Principles of Linked Open Data," Programming Historian 6 (2017), [https://doi.org/10.46430/phen0068](https://doi.org/10.46430/phen0068)
 
 Betrachtet anschließend die Informationen Hannah Arendts in der Wikipedia, der DBpedia, bei Wikidata und in der GND:
 
