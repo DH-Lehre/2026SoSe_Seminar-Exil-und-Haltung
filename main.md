@@ -148,9 +148,9 @@ Um das Material zu erweitern, könnt ihr das Repo forken und eine Pull Request s
 
 #### Hinweise zur Peer Review (für Informatiker_innen)
 
-**Aufgabenstellung:** tba
+**Aufgabenstellung:** In der letzten Sitzung am 07.07. stellen alle Kleingruppen ihr Konzept für ihren Podcast in einem max. 10-minütigen Vortrag vor. Jedem Studierenden wird eine andere Podcast-Gruppe zur *Peer Review* zugeteilt: Was funktioniert gut in dem Podcast-Konzept? Wo gibt es Verbesserungspotential? 
 
-Das Protokoll ist **bis spätestens zum tba** per E-Mail (ggb@informatik.uni-kiel.de) bei mir als PDF einzureichen.
+Das Protokoll ist **bis spätestens zum 31.07.** per E-Mail (ggb@informatik.uni-kiel.de) bei mir als PDF einzureichen.
 
 Weitere Formalia:
 
@@ -173,6 +173,30 @@ Eine gute (oder bessere) Arbeit
 * Mehrere verbesserungswürdige Aspekte identifiziert
 * Lösungsmöglichkeiten für die Aspekte benannt
 
+
+#### Hinweise zur Reflexion/Konzeptpapier (für Informatiker_innen)
+
+**Aufgabenstellung:** Formuliert euer Konzept für euren Podcast oder Podcastteil kurz schriftlich aus. Beschreibt, was ihr vorhabt, warum ihr die Form und Mittel gewählt habt und auf welche Quellen und Ressourcen ihr für den Podcast zurückgreift. 
+
+Die Ausarbeitung muss bis zum **31. Juli 2026** (Ende des Semesters) per E-Mail (ggb@informatik.uni-kiel.de) bei mir als PDF eingereicht werden.
+
+Weitere Formalia:
+
+* 750 - 1.000 Wörter im einspaltigen [ACM-Template](https://www.acm.org/publications/proceedings-template), bevorzugt in LaTeX ([Overleaf](https://www.rz.uni-kiel.de/de/angebote/software/overleaf/overleaf))
+* Name, stu-Mailadresse
+* Unterschriebene Eigenständigkeitserklärung
+* Externe Quellen sind gemäß der ACM-Zitierweise anzugeben; das Literaturverzeichnis zählt nicht zur Gesamtlänge
+* Falls ChatGPT o. ä. verwendet wurden: Umfang und Prompts angeben (zählt nicht zur Gesamtlänge)
+* Die Arbeit kann auf Deutsch oder Englisch verfasst werden
+
+Für eine ausreichende (oder bessere) Arbeit
+
+* 
+
+Eine gute (oder bessere) Arbeit
+
+* tba
+
 #### Hinweise zum Skript / Podcast (für Informtiker_innen)
 
 **Aufgabenstellung:** Produziert einen philosophischen Podcast von 5-10 Minuten (Einzelleistung) oder 20-30 Minuten (Kleingruppe, 3 bis 4 Personen), der folgende inhaltliche Anforderungen erfüllt:
@@ -182,9 +206,9 @@ Eine gute (oder bessere) Arbeit
 * Optional: Der Podcast bezieht Methoden oder Perspektiven der Digital Humanities ein (z.B. Fragen der Überlieferung, Digitalisierung, Sichtbarmachung von Biographien).
 
 Neben dem eingesprochenen Podcast ist ein ausgearbeitetes Skript einzureichen, das als eigenständige Textleistung bewertet wird.
-Skript und Podcast müssen bis zum 30. September 2026 per E-Mail (ggb@informatik.uni-kiel.de) oder die CAU-Cloud bei mir eingereicht werden.
+Skript und Podcast müssen bis zum **30. September 2026** per E-Mail (ggb@informatik.uni-kiel.de) oder die CAU-Cloud bei mir eingereicht werden.
 
-Ein Entwurf des Skripts ist in der Sitzung am 07.07. vorzustellen. 
+Ein Entwurf des Skripts ist in der Sitzung am **07.07.** vorzustellen. 
 
 Weitere Formalia:
 
@@ -203,29 +227,6 @@ Eine gute (oder bessere) Arbeit
 * Entwickelt eine eigene Perspektive auf die Themen Exil und/oder Haltung, die über die reine Darstellung hinausgeht
 * Nutzt konkrete Beispiele, Zitate oder Quellen, um abstrakte Begriffe zu veranschaulichen
 * Ist so gestaltet, dass sie für fachfremde Zuhörer:innen verständlich und nachvollziehbar ist
-
-#### Hinweise zur Reflexion (für Informatiker_innen)
-
-**Aufgabenstellung:** tba
-
-Die Ausarbeitung muss bis zum **30. September 2026** (Ende des Semesters) per E-Mail (ggb@informatik.uni-kiel.de) bei mir als PDF eingereicht werden.
-
-Weitere Formalia:
-
-* 1.000 Wörter im einspaltigen [ACM-Template](https://www.acm.org/publications/proceedings-template), bevorzugt in LaTeX ([Overleaf](https://www.rz.uni-kiel.de/de/angebote/software/overleaf/overleaf))
-* Name, stu-Mailadresse
-* Unterschriebene Eigenständigkeitserklärung
-* Externe Quellen sind gemäß der ACM-Zitierweise anzugeben; das Literaturverzeichnis zählt nicht zur Gesamtlänge
-* Falls ChatGPT o. ä. verwendet wurden: Umfang und Prompts angeben (zählt nicht zur Gesamtlänge)
-* Die Arbeit kann auf Deutsch oder Englisch verfasst werden
-
-Für eine ausreichende (oder bessere) Arbeit
-
-* tba
-
-Eine gute (oder bessere) Arbeit
-
-* tba
 
 ### Hinweise zu Podcasts 
 
