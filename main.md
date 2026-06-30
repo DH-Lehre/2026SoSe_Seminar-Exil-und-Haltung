@@ -1309,6 +1309,61 @@ WHERE {
 }
 ```
 
+### Sitzungsprotokoll 19.06.2026
+
+#### Linked Data
+
+Allgemein versteht man unter Linked Data, Daten, die so im Internet veröffentlicht werden, dass man diese eindeutig identifizieren kann, um auf weitere Daten zu verweisen. Linked **Open** Data liegt vor, wenn diese Daten unter einer offenen Lizenz liegen. Dabei bedeutet Open/Offen nicht, dass diese völlig ohne Auflagen nutzbar sind. Es kann kleine, geringe Einschränungen geben, unter dessen Reglung diese Daten weiter verändert oder verbreitet werden dürfen bspw. die Nennung von Quellen oder die Veröffentlichung unter der selben Lizenz. Offenheit ist erstrebenswert, da sich durch die Verfügbarkeit der Daten Verknüpfungen herstellen lassen. Das bedeuet, es lassen sich Kontexte besser herleiten und ein besseres Gesamtverständnis erzeugen. Hinzu kommt, dass die Daten transparent und nachvollziehbar sind, damit die Daten in weiteren Kontexten genutzt werden können. Damit Ressourcen, wie Personen, Orte etc. nicht verwechselt werden, müssen diese ebenso eindeutig identifizierbar sein. Dazu tragen URIs bei, die im nächsten Abschnitt näher erläutert werden. In Linked Open Data werden die Daten in einem Tripel, bestehend aus Subjekt, Prädikat und Objekt, beschrieben. Das Prädikat beschreibt hierbei, in welcher Beziehung das Subjekt und Objekt zueinander stehen. Diese Tripel kann man gut mithilfe von Diagrammen darstellen, was ebenso einen Mehrwert gegenüber den klassischen Datenbanken hat, da diese Verknüpfungen besser visuell sichtbar sind.
+
+#### Uniform Resource Identifier (URI)
+Unter einem Uniform Ressource Identifier versteht man die eindeutige Kennung einer Identität (Person, Objekt oder Beziehung). Sie ist weltweit nutzbar und ihre Aufgabe besteht darin, zu identifizieren. Hier wird auch noch einmal der Unterschied zum Uniform Resource Locator (URL) deutlich, dessen Aufgabe es ist, eine Ressource im Web anzugeben. Ebenso spielt hier das Domain Name System (DNS) eine wichtige Rolle. Domains werden weltweit eindeutig vergeben, sodass jede Domain auf eine Organisation zurückzuführen ist, die diese verwaltet. Jede Organisation ist somit in der Lage, eigene URIs zu erstellen und zu verwalten. Da Domains (vereinfacht ausgedrückt der vordere Teil einer jeden URL) eindeutig sind, sind auch die dahinterliegenden Pfade (der hintere Teil einer jeden URL) eindeutig und können somit eindeutig einer jeden Ressource zugeordnet werden. So bildet die Kombination einer vollständige URL auch eine URI. URIs werden im Kontext Linked Data benötigt, um Daten wie Personen auch über verschiedene Websites hinweg eindeutig zu identifizieren. 
+
+Dereferenzierung bedeutet in dem Zusammenhang, dass eine URI bspw. über die Suchezeile eines Browsers aufgerufen werden kann, um die Ressource nachzuschlagen. Dies ist aber nicht unbedingt notwendig, da auch nicht dereferenzierbare URI-Ressourcen eindeutig identifiziert werden können.
+
+Ein Beispiel von zwei URLs: 
+
+```url
+http://viaf.org/viaf/64183282/
+
+http://viaf.org/viaf/33059614/
+```
+beschreibt zwei verschiedene URLs. Die Organisation "The VIAF® (Virtual International Authority File)" hat unter der Domain "viaf.org" zwei Personen mit selben Vor- und Nachnamen (Jack Straw) jeweils eine eindeutige URI verliehen (64183282 und 33059614), sodass diese beiden Personen eindeutig unterschieden werden können.
+
+
+#### Ontologien
+Ontologien beschreiben die Struktur von Daten, um sie mit anderen Daten zusammenfürbar zu machen. Ontologien beschreiben ebenso, welche Arten von Dingen in einem Datenbereich vorkommen und welche Beziehungen oder andere Merkmale diese haben können. Sie werden dementsprechend im Kontext Linked Data eingesetzt, um gemeinsame Modelle zu erstellen. 
+
+Die Onthologie unterscheidet sich ebenso von der Taxonomie, wobei die Struktur bei der Onthologie freier gestaltbar ist und mehr flexibel ist. Bei der Taxonomie ist eine Hirachie gegeben, die Auskunft über hirachisch strukturierte Beziehungen gibt. Onthologien besitzen ein Vokabular und ein Schema. Das Vokabular dient hierbei als Baukasten, aus dem Verknüpfungen gebaut werden können. Es gibt somit auch verschiedene Vokabulare bspw. für Hölzer oder Kunstgegenstände. Das Vokabular stellt somit Begriffe bereit, um Daten über verschiedene Sprachen einheitlich beschreiben zu können. Das Schema legt fest, welche Strukturen und Attribute beschrieben werden sollen und wie.
+
+#### RDF und Datenformate
+RDF (Resource Description Framework) ist ein Datenmodell für Linked Open Data. Es legt fest, dass Aussagen in Tripelform zu sturkturieren sind. RDF stellt hierbei nur den allgemeinen Standard dar. Unter Serilisation versteht man im Grunde wie Daten aufgeschrieben sind, wie sie von diesem Standart in eine konkrete Schreibweise gebracht werden. RDF/XML und Turtle sind zwei solcher Serilisierungen. Turtle ist hier eine "angenehm einfache Art und Weise", Triple aufzuschreiben. Es werden hierbei Prefixe genutzt, welche am Anfang definiert werden, damit man längere URIs nur einmal eingeben muss und somit weiter mit dem Prefix für diese Ressource arbeiten kann.
+
+Ein Beispiel für Turtle wäre:
+
+```turtle
+@prefix lccn: <http://id.loc.gov/authorities/names/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix viaf: <http://viaf.org/viaf/> .
+
+lccn:n82011242 dc:creator viaf:96994048 .
+```
+
+Hier definieren die ersten 3 Zeilen die Prefixe als Abkürzungen, die für längere URI Anfänge genutzt werden können. 
+
+Die letzte Zeile stellt hier ein RDF Tripel dar. Hier lccn:n82011242 (Subjekt) dc:creator (Prädikat) und viaf:96994048 (Objekt).
+
+#### SPARQL
+SPARQL ist eine Abfragesprache, mit der man Daten aus Datenbanken abfragen und mit diesen arbeiten kann. Mit SPARQL lassen sich unterschiedliche Datensätze aus dem Ressource Description Framework (RDF) zusammenführen und mithilfe logischer Aussagen und der Triple-Relation auswerten.
+
+Eine SPARQL-Anfrage besteht aus einer SELECT Anweisung und einem WHERE Teil. SELECT gibt hier an, was ausgegeben werden soll. Im WHERE Block wird beschrieben, nach welchen Tripeln gesucht werden soll. Die Begriffe mit einem Fragezeichen am Anfang sind Variablen und stehen für Werte, die durch die Abfrage gefunden werden sollen.
+
+SPARQL ähnelt dabei sehr SQL. Beide Sprachen werden zur Abfrage von Daten verwendet. SPARQL ist hier jedoch sehr auf Tripel ausgelegt.
+
+
+#### Quellen
+
+Jonathan Blaney, “Introduction to the Principles of Linked Open Data,” Programming Historian 6 (2017), https://doi.org/10.46430/phen0068
+
 ### Aufgabe zur nächsten Woche
 
 >Hört mindestens zwei der drei unten verlinkten Podcasts. Achtet dabei auf Sprechsituation, Formelemente, Stilmittel, Einsatz von Begleitmedien, Komposition und Dramaturgie. Überlegt euch, wie ihr einzelne Elemente auf eure Projekte anwenden bzw. variieren könnt.
